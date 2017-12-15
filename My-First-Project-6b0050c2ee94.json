@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pure-polymer-189023",
+  "private_key_id": "6b0050c2ee940ec00cb2c1e9868fbfe28d63fb05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhyKCE3OFeTUI9\n728/Eet4bdAEabwkvjnQBzPszdG2msG5Qqmk35RGaLEi/pH0oOcUMtm4NbOxL/x4\nnm34rE0gvgaBK0MO+FPffAira5k7oN/M5CwZwaWQyTfVQnlBdNgvcfuc3eDYFF0/\nb2dcA2o9gUYt6nOsOyFgfIpsxWcHhCZgk3GXrF8t5FUDLYQe4bQ92/09vBCeajNB\nrpi5vlMSZJEr8Wf7KoV7hkomMb5ClFgiZKVtx7ieg2UVcdNuyeOCBbzTbFmQ0zEn\nuI1RaozgDBNIgQvlgCWyGcl/48lofGKx+TrJC595p4MTMUbIgCZ1TPabR59MaQxw\nW6ejc7BXAgMBAAECggEAFvB90pHoed7KnKVPfa5x6JXrnQ8rFOaY1BhvP593r6BQ\nj2SE/OHUXET1vlLz/FE+uRAji7I1FAsGkTCzhqDm4y07VvNQyFwVlW6yKMxxUJwb\nMON70ZAZpLi06f9rd2mKL2PaxwjJ99o10SSd8TzNlfsk6LRZ1UVaskVlAQEbYylq\nrFp0s8g6z6ju1Fiba/nx47D1IdtdRrJbQDof3sHtkOBPyo/pjQnyxyw7xc0dwhF4\nMMbujt8CmGHzoeGpDr1lbHpjPByWQ+jBL7GVg6hOlcoRmxr440r+BtmXKzasswZo\nVHNkWy8LT3txcQwlXVQ22XpJ/sj+n0MdWXV0iMygbQKBgQDwjKiMQZtT+ZAmb81I\nideyPAMCYVikPBGVacWweGWmFWf2wyuU2eBfoSsvdyyzRAUH0JtxkiQ8evlNvXOK\nHcGtelaXzNRn2KZJ2PmUabtI2tOl7DCrjFd9y+U+ItF+YZkh4dSIs4p8a0BDAuHD\neCkRO0q1i4Xnt/hQSm8kYejdowKBgQDwSS0ea8XHrSOzV43+Y/KAqnuAqfcTB+AC\nklNJYI3RAF/xq3h76igSUTIGjibV7idEFXUuyl+M2SR5lRzpbu0tLDxBqzsZZaDz\n0vlxPDK+1gBgFvPQsyEvUOQ1XWxqmoBQrY04tB8siE8vb4pq0vEiMfLlRCkV8DlF\nTiqRDHqlvQKBgQCn6GcWUA1OVptqWQwgICexv/YRyUWIjm1vr/9QKRo7DiIduypG\norbdybBNV5CaKVahl9mJMwucM/KlcyKdPBwfLZAYMd/qBO4+Cfhcwlj6h9TIss9e\nT34azyJbdw5oe1PatLoYGcsHAg4/OFnCibOQ1aRWiOeVUXNBCFQAP1++pQKBgCt5\nAcm8M+dBYvEiiRUaXhh7P6bymTn/Nb8hXCItbtr+V11w6XZ50dAmkodvFoWj9cSy\noSXbBViFPL0mhjmRkSWYGDrFUQbyRSF37RtYidHPA/hejrQWhI179B3XjjLnSwnN\nrHwy0mULMFBjvMZA7dGC+fAS2eAXOzVXxAnEGTh9AoGAZNtKBKPxg6hpHwO6AZ6A\nmJJRyoypxiqJ2zTJRCKhHCT4iPdSBaJZyxRFhC6mJcu3QBhGDacPc4vhYkjvxhr0\nrX9QPOOb/MIIG6PBpZ5hzMloPRAdJfKucC6kig8oZDVnSD2PBwtVLD/KnmJHs0Sj\n9woLY68FYEolzxUwkuwHr+U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wdc-215@pure-polymer-189023.iam.gserviceaccount.com",
+  "client_id": "102812832307990628755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wdc-215%40pure-polymer-189023.iam.gserviceaccount.com"
+}
